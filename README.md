@@ -8,9 +8,10 @@
 
 
 
-# Disclaimer 
-- No data persistent was implement, still work in progress 
-- Cities will be lost when you terminate the app process
+# Disclaimer
+- App supports only WiFi
+- Weather data persistent was implement, but still work not working Properly For time Being its working in online progress
+- Every 2 hours current place weather are updated automatically.
 
 ## Built With
 
